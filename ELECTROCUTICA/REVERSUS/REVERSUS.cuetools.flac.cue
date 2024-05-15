@@ -1,0 +1,25 @@
+REM COMMENT "CUETools generated dummy CUE sheet"
+FILE "01.Reversus.flac" WAVE
+  TRACK 01 AUDIO
+    INDEX 01 00:00:00
+FILE "02.fluctus+fractus.flac" WAVE
+  TRACK 02 AUDIO
+    INDEX 01 00:00:00
+FILE "03.Melaleuca.flac" WAVE
+  TRACK 03 AUDIO
+    INDEX 01 00:00:00
+FILE "04.Illusionika.flac" WAVE
+  TRACK 04 AUDIO
+    INDEX 01 00:00:00
+FILE "05.#006F86.flac" WAVE
+  TRACK 05 AUDIO
+    INDEX 01 00:00:00
+FILE "06.vice versa.flac" WAVE
+  TRACK 06 AUDIO
+    INDEX 01 00:00:00
+FILE "07.Triplaneta.flac" WAVE
+  TRACK 07 AUDIO
+    INDEX 01 00:00:00
+FILE "08.Lullaby.flac" WAVE
+  TRACK 08 AUDIO
+    INDEX 01 00:00:00
